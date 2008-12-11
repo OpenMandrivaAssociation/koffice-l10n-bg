@@ -1,5 +1,5 @@
 Name: koffice-l10n-bg
-Version: 1.9.98.2
+Version: 1.9.98.3
 Release: %mkrel 1
 Summary: Language files for KOffice Bulgarian
 Group: System/Internationalization
